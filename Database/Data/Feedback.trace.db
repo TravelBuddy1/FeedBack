@@ -1,0 +1,9 @@
+2026-02-18 18:06:16.769470+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FEEDBACK" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.comment,f1_0.rating,f1_0.trip_id,f1_0.user_id from feedback f1_0 [42104-240]
+2026-02-18 18:09:53.871115+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FEEDBACK" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.comment,f1_0.rating,f1_0.trip_id,f1_0.user_id from feedback f1_0 [42104-240]
+2026-02-18 18:11:56.621850+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FEEDBACK" not found (this database is empty); SQL statement:
+select f1_0.id,f1_0.comment,f1_0.rating,f1_0.trip_id,f1_0.user_id from feedback f1_0 [42104-240]
