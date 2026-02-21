@@ -7,7 +7,7 @@ import tn.esprit.feedback.services.IFeedbackService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/feedback")
+@RequestMapping("/feedback")
 @RequiredArgsConstructor
 public class FeedbackController {
     private final IFeedbackService feedbackService;
